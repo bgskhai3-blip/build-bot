@@ -971,6 +971,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791819841995
+      },
+      "-1003875438794": {
+        "id": "-1003875438794",
+        "name": "ROOM PUBLIC SAM",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791819847430
       }
     }
   }
