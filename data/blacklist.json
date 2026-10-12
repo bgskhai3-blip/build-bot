@@ -578,6 +578,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791804265448
+      },
+      "-1003887845017": {
+        "id": "-1003887845017",
+        "name": "Room Public By Alvinz",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791804270634
       }
     }
   }
