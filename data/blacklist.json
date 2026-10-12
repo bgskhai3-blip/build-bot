@@ -217,6 +217,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791798616255
+      },
+      "-1003987206804": {
+        "id": "-1003987206804",
+        "name": "Cs Noktel",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791798621438
       }
     }
   }
