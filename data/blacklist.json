@@ -385,6 +385,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791800251603
+      },
+      "-1003919366571": {
+        "id": "-1003919366571",
+        "name": "BASE NOMERO LANZ",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791800262047
       }
     }
   }
