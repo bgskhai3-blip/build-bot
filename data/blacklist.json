@@ -378,6 +378,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791800240670
+      },
+      "-1003954491831": {
+        "id": "-1003954491831",
+        "name": "Marketplace Telegram",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791800251603
       }
     }
   }
