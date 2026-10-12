@@ -1307,6 +1307,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791820353383
+      },
+      "-1003835357165": {
+        "id": "-1003835357165",
+        "name": "Base Numero Telegram #1",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791820364520
       }
     }
   }
