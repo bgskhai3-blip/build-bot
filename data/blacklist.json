@@ -1139,6 +1139,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791820003600
+      },
+      "-1003390681615": {
+        "id": "-1003390681615",
+        "name": "TURR [ MSG¹ ]",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791820008951
       }
     }
   }
