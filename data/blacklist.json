@@ -557,6 +557,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791804249778
+      },
+      "-1004337206749": {
+        "id": "-1004337206749",
+        "name": "BASE NUMERO TG",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791804255074
       }
     }
   }
