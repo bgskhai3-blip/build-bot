@@ -1251,6 +1251,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791820110953
+      },
+      "-1004358610842": {
+        "id": "-1004358610842",
+        "name": "Sakata MSG #8",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791820116155
       }
     }
   }
