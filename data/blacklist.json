@@ -1,6 +1,13 @@
 {
   "8286316637": {
     "chats": {
+      "3810223958": {
+        "id": "3810223958",
+        "name": "𝚊𝚕𝚕 𝚙𝚊𝚛𝚝𝚗𝚎𝚛 𝚘𝚕𝚒𝚗𝚗",
+        "type": "group",
+        "username": null,
+        "addedAt": 1791798241629
+      },
       "3832400682": {
         "id": "3832400682",
         "name": "ALL ROLE UBOT ZYIRA",
@@ -77,6 +84,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791798212314
+      },
+      "-1003633481131": {
+        "id": "-1003633481131",
+        "name": "UXGROUP",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791798240825
       }
     }
   }
