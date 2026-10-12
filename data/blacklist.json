@@ -599,6 +599,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791804281154
+      },
+      "-1002934548576": {
+        "id": "-1002934548576",
+        "name": "Room Public Astra #2",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791804286337
       }
     }
   }
