@@ -371,6 +371,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791800229760
+      },
+      "-1003447815622": {
+        "id": "-1003447815622",
+        "name": "gc promote",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791800240670
       }
     }
   }
