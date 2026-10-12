@@ -189,6 +189,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791798578132
+      },
+      "-1003872637601": {
+        "id": "-1003872637601",
+        "name": "Edinburg Kelra Leonore",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791798583316
       }
     }
   }
