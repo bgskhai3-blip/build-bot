@@ -753,6 +753,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791804411833
+      },
+      "-1002804269566": {
+        "id": "-1002804269566",
+        "name": "PUBLIC ROOM || EP1NZ",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791804417020
       }
     }
   }
