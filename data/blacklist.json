@@ -746,6 +746,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791804406647
+      },
+      "-1003088349472": {
+        "id": "-1003088349472",
+        "name": "HC OFFICAL",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791804411833
       }
     }
   }
