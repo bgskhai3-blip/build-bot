@@ -529,6 +529,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791804228847
+      },
+      "-1003712122452": {
+        "id": "-1003712122452",
+        "name": "ALL INFO POPON",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791804234033
       }
     }
   }
