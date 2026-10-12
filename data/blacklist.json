@@ -161,6 +161,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791798417426
+      },
+      "-1004416642225": {
+        "id": "-1004416642225",
+        "name": "ALL BUYER CREATE VPS VIP",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791798440075
       }
     }
   }
