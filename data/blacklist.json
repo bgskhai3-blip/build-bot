@@ -760,6 +760,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791804417020
+      },
+      "-1002924937344": {
+        "id": "-1002924937344",
+        "name": "Room Public Shen #1",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791804422284
       }
     }
   }
