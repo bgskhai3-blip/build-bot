@@ -168,6 +168,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791798440075
+      },
+      "-1003979890103": {
+        "id": "-1003979890103",
+        "name": "GACHA NOKOS WA",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791798534427
       }
     }
   }
