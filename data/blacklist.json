@@ -767,6 +767,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791804422284
+      },
+      "-1002563871168": {
+        "id": "-1002563871168",
+        "name": "6 || NDY - PUBLIC",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791804427465
       }
     }
   }
