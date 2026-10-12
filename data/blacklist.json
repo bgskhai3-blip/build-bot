@@ -880,6 +880,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791819745013
+      },
+      "-1004317032146": {
+        "id": "-1004317032146",
+        "name": "Darkness Group [UTAMA]",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791819756032
       }
     }
   }
