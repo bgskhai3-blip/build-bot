@@ -1160,6 +1160,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791820025116
+      },
+      "-1003915476364": {
+        "id": "-1003915476364",
+        "name": "PINTARNYA OFC",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791820030679
       }
     }
   }
