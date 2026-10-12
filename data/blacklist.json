@@ -985,6 +985,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791819858596
+      },
+      "-1003769704450": {
+        "id": "-1003769704450",
+        "name": "Kirim Gmail News",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791819863843
       }
     }
   }
