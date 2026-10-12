@@ -697,6 +697,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791804370262
+      },
+      "-1003991620713": {
+        "id": "-1003991620713",
+        "name": "MURID BEKU DANA ZHIDAN",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791804375445
       }
     }
   }
