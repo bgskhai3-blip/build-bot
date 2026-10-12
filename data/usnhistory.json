@@ -824,6 +824,16 @@
       }
     ]
   },
+  "1287495596": {
+    "username": "lakujr",
+    "entries": [
+      {
+        "username": "lakujr",
+        "first": 1791819411763,
+        "last": 1791819411763
+      }
+    ]
+  },
   "1300034883": {
     "username": null,
     "entries": [
@@ -910,7 +920,7 @@
     ]
   },
   "1341370908": {
-    "username": "fikrics",
+    "username": null,
     "entries": [
       {
         "username": "fikrics",
@@ -1266,6 +1276,11 @@
         "username": "rafatharcode",
         "first": 1791818187276,
         "last": 1791818187276
+      },
+      {
+        "username": "rafatharcode",
+        "first": 1791819406902,
+        "last": 1791819406902
       }
     ]
   },
@@ -6300,12 +6315,17 @@
     ]
   },
   "6627757077": {
-    "username": null,
+    "username": "violentcrime_two",
     "entries": [
       {
         "username": "violentcrime_two",
         "first": 1791814227675,
         "last": 1791814227675
+      },
+      {
+        "username": "violentcrime_two",
+        "first": 1791819409940,
+        "last": 1791819409940
       }
     ]
   },
@@ -6961,6 +6981,16 @@
         "username": "zancxceo",
         "first": 1791819288307,
         "last": 1791819288307
+      }
+    ]
+  },
+  "8704730671": {
+    "username": "rennzv2",
+    "entries": [
+      {
+        "username": "rennzv2",
+        "first": 1791819410889,
+        "last": 1791819410889
       }
     ]
   }
