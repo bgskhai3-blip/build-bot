@@ -350,6 +350,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791800203474
+      },
+      "-1004400477540": {
+        "id": "-1004400477540",
+        "name": "Base Telegram SHOP",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791800208671
       }
     }
   }
