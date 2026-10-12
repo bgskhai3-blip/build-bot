@@ -494,6 +494,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791804197218
+      },
+      "-1002728894435": {
+        "id": "-1002728894435",
+        "name": "ROOM PUBLIC FIRMAN #1",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791804202482
       }
     }
   }
