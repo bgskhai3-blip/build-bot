@@ -322,6 +322,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791800154319
+      },
+      "-1004452346644": {
+        "id": "-1004452346644",
+        "name": "BaseTelegramNumero",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791800175862
       }
     }
   }
