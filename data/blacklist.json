@@ -908,6 +908,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791819783361
+      },
+      "-1003918102844": {
+        "id": "-1003918102844",
+        "name": "MARKET TG/WS #1",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791819788568
       }
     }
   }
