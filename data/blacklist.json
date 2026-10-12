@@ -859,6 +859,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791819723603
+      },
+      "-1003907207386": {
+        "id": "-1003907207386",
+        "name": "ROOM PUBLIC #1",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791819728804
       }
     }
   }
