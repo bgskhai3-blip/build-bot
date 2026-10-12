@@ -817,6 +817,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791819680185
+      },
+      "-1003974154445": {
+        "id": "-1003974154445",
+        "name": "MONITORING NOKOS",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791819685769
       }
     }
   }
