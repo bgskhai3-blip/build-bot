@@ -7,6 +7,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791797969655
+      },
+      "-1003871557506": {
+        "id": "-1003871557506",
+        "name": "OPxOTP Group",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791798013681
       }
     }
   }
