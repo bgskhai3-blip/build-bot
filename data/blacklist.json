@@ -392,6 +392,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791800262047
+      },
+      "-1004459597330": {
+        "id": "-1004459597330",
+        "name": "ARYA PUBLIK",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791800267238
       }
     }
   }
