@@ -1,6 +1,13 @@
 {
   "8286316637": {
     "chats": {
+      "3832400682": {
+        "id": "3832400682",
+        "name": "ALL ROLE UBOT ZYIRA",
+        "type": "group",
+        "username": null,
+        "addedAt": 1791798168853
+      },
       "3885409881": {
         "id": "3885409881",
         "name": "𝐆𝐛 𝐂𝐩𝐚𝐧𝐞𝐥 𝐁𝐲 𝐗𝐲𝐫𝐨",
@@ -49,6 +56,13 @@
         "type": "group",
         "username": null,
         "addedAt": 1791798151141
+      },
+      "-1003963880893": {
+        "id": "-1003963880893",
+        "name": "ALL ROLE V2",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791798167328
       }
     }
   }
