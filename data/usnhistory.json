@@ -1980,7 +1980,7 @@
     ]
   },
   "1858774858": {
-    "username": "nzimmortal",
+    "username": null,
     "entries": [
       {
         "username": "nzimmortal",
@@ -5391,6 +5391,11 @@
         "username": "someonegazz",
         "first": 1791814885634,
         "last": 1791814885634
+      },
+      {
+        "username": "someonegazz",
+        "first": 1791818752868,
+        "last": 1791818752868
       }
     ]
   },
@@ -6450,7 +6455,7 @@
     ]
   },
   "8934155489": {
-    "username": "negroorr",
+    "username": null,
     "entries": [
       {
         "username": "negroorr",
