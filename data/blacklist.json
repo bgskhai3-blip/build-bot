@@ -1279,6 +1279,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791820273650
+      },
+      "-1004425117545": {
+        "id": "-1004425117545",
+        "name": "ROOM PUBLIC VORZAA",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791820325754
       }
     }
   }
