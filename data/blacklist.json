@@ -571,6 +571,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791804260258
+      },
+      "-1003929459696": {
+        "id": "-1003929459696",
+        "name": "ALL BUYER APK XENOVA",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791804265448
       }
     }
   }
