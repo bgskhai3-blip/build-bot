@@ -392,6 +392,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791876670847
+      },
+      "-1004314564308": {
+        "id": "-1004314564308",
+        "name": "Info by sakata",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791876676040
       }
     }
   },
