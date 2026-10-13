@@ -1818,6 +1818,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791850777533
+      },
+      "-1003736185245": {
+        "id": "-1003736185245",
+        "name": "MARKETPLACE TG/WS",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791850782774
       }
     }
   }
