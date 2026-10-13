@@ -483,6 +483,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791876744277
+      },
+      "-1003936304978": {
+        "id": "-1003936304978",
+        "name": "ALL INFORMATION BOT",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791876749474
       }
     }
   },
