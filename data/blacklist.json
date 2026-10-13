@@ -70,6 +70,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791876330421
+      },
+      "-1004450887699": {
+        "id": "-1004450887699",
+        "name": "MARKETPLACE",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791876341419
       }
     }
   },
