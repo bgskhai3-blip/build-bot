@@ -1394,6 +1394,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791900559013
+      },
+      "-1003936304978": {
+        "id": "-1003936304978",
+        "name": "ALL INFORMATION BOT",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791900625757
       }
     }
   },
