@@ -140,6 +140,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791876452701
+      },
+      "-1003962839196": {
+        "id": "-1003962839196",
+        "name": "FC - Community",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791876457893
       }
     }
   },
