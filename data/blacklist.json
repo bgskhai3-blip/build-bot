@@ -1720,6 +1720,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791850647902
+      },
+      "-1004381411559": {
+        "id": "-1004381411559",
+        "name": "Empire partner",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791850653142
       }
     }
   }
