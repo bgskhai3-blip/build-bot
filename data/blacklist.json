@@ -1482,6 +1482,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791850286670
+      },
+      "-1004373264822": {
+        "id": "-1004373264822",
+        "name": "Murid Badak",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791850315154
       }
     }
   }
