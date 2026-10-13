@@ -553,6 +553,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791876796791
+      },
+      "-1003430274671": {
+        "id": "-1003430274671",
+        "name": "MURBASE X FUNCT NO PROMOSI KNTL",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791885798885
       }
     }
   },
