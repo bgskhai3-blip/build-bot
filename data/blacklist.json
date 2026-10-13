@@ -1664,6 +1664,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791850547529
+      },
+      "-1003980106117": {
+        "id": "-1003980106117",
+        "name": "BENEFIT BALL",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791850552768
       }
     }
   }
