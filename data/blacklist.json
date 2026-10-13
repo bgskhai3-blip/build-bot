@@ -406,6 +406,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791876681233
+      },
+      "-1003808749991": {
+        "id": "-1003808749991",
+        "name": "CH PRIVAT ME",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791876686580
       }
     }
   },
