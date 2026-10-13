@@ -147,6 +147,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791876457893
+      },
+      "-1004471901920": {
+        "id": "-1004471901920",
+        "name": "ALL INFORMASI X-Vilain V1",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791876463158
       }
     }
   },
