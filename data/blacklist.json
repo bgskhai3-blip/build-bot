@@ -1811,6 +1811,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791850772294
+      },
+      "-1003512420337": {
+        "id": "-1003512420337",
+        "name": "SETORAN VERMET / SB",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791850777533
       }
     }
   }
