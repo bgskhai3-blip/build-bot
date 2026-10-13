@@ -721,6 +721,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791934774149
+      },
+      "-1004468962510": {
+        "id": "-1004468962510",
+        "name": "ROOM PROMOSI PUBLIC",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791934779388
       }
     }
   },
