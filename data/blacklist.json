@@ -1538,6 +1538,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791850382505
+      },
+      "-1004204832917": {
+        "id": "-1004204832917",
+        "name": "VENOM PUBLIK",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791850399750
       }
     }
   }
