@@ -518,6 +518,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791876770361
+      },
+      "-1003818495120": {
+        "id": "-1003818495120",
+        "name": "ABOUT \"ZANS\"",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791876775556
       }
     }
   },
