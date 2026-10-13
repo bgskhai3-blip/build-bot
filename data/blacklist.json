@@ -1412,6 +1412,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791850204596
+      },
+      "-1004338152598": {
+        "id": "-1004338152598",
+        "name": "Room Telegram Numero",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791850209842
       }
     }
   }
