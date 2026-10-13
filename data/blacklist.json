@@ -1545,6 +1545,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791850399750
+      },
+      "-1004413136344": {
+        "id": "-1004413136344",
+        "name": "ASTRA PUBLIK",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791850405027
       }
     }
   }
