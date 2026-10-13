@@ -1608,6 +1608,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791850487681
+      },
+      "-1004441260854": {
+        "id": "-1004441260854",
+        "name": "Group Benefit Public",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791850492917
       }
     }
   }
