@@ -630,6 +630,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791934676452
+      },
+      "-1003954149680": {
+        "id": "-1003954149680",
+        "name": "ROOM PUBLIC VORZA OFFICIAL",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791934681702
       }
     }
   },
