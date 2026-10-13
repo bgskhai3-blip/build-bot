@@ -1447,6 +1447,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791850242500
+      },
+      "-1002789428371": {
+        "id": "-1002789428371",
+        "name": "Info Update Bot Jashare",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791850247743
       }
     }
   }
