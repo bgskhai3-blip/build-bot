@@ -1496,6 +1496,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791850332063
+      },
+      "-1004362756938": {
+        "id": "-1004362756938",
+        "name": "ROOM DRAMA BALL",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791850343175
       }
     }
   }
