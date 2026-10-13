@@ -1454,6 +1454,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791850247743
+      },
+      "-1004308256320": {
+        "id": "-1004308256320",
+        "name": "ROOM PUBLIC SENZ 3",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791850258989
       }
     }
   }
