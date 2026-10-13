@@ -511,6 +511,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791876765058
+      },
+      "-1004342061581": {
+        "id": "-1004342061581",
+        "name": "X COMUNITY",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791876770361
       }
     }
   },
