@@ -168,6 +168,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791876473645
+      },
+      "-1003931983923": {
+        "id": "-1003931983923",
+        "name": "Info update baileys",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791876478837
       }
     }
   },
