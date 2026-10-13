@@ -994,6 +994,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791935066857
+      },
+      "-1003057331658": {
+        "id": "-1003057331658",
+        "name": "Shop TG Number [ Chat ]",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791935078195
       }
     }
   },
