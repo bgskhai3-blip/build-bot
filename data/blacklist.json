@@ -1440,6 +1440,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791850231377
+      },
+      "-1003588399166": {
+        "id": "-1003588399166",
+        "name": "GB BEBAS PROMOSI",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791850242500
       }
     }
   }
