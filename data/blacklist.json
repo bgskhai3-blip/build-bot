@@ -1566,6 +1566,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791850427413
+      },
+      "-1004310293096": {
+        "id": "-1004310293096",
+        "name": "Umi Agent Komunitas",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791850432653
       }
     }
   }
