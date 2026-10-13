@@ -210,6 +210,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791876516905
+      },
+      "-1004443827051": {
+        "id": "-1004443827051",
+        "name": "JB ALL GAME ZANS V1",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791876522100
       }
     }
   },
