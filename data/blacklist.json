@@ -1015,6 +1015,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791935106315
+      },
+      "-1004369093323": {
+        "id": "-1004369093323",
+        "name": "ROOM PUBLIC BY GIKS#1",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791935111549
       }
     }
   },
