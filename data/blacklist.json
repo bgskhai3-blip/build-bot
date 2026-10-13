@@ -1580,6 +1580,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791850449663
+      },
+      "-1003983994727": {
+        "id": "-1003983994727",
+        "name": "GRUP MURBUG PROMOSI PUBLIK",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791850460746
       }
     }
   }
