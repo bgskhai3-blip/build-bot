@@ -1517,6 +1517,20 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791850371519
+      },
+      "-1004436794018": {
+        "id": "-1004436794018",
+        "name": "Oprek Student Community",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791850377029
+      },
+      "4427993699": {
+        "id": "4427993699",
+        "name": "X-NOSE [PROJECT]",
+        "type": "group",
+        "username": null,
+        "addedAt": 1791850379348
       }
     }
   }
