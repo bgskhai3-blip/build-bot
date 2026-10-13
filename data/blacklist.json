@@ -1594,6 +1594,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791850466121
+      },
+      "-1003832400682": {
+        "id": "-1003832400682",
+        "name": "ALL ROLE UBOT ZYIRA",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791850471358
       }
     }
   }
