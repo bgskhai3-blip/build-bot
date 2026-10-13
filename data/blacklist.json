@@ -1790,6 +1790,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791850756575
+      },
+      "-1003914175165": {
+        "id": "-1003914175165",
+        "name": "room public by fadzz",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791850761812
       }
     }
   }
