@@ -665,6 +665,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791934726140
+      },
+      "-1003872086217": {
+        "id": "-1003872086217",
+        "name": "Room Public Gacor",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791934731375
       }
     }
   },
