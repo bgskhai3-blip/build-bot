@@ -126,6 +126,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791876442226
+      },
+      "-1004300580042": {
+        "id": "-1004300580042",
+        "name": "About varo",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791876447426
       }
     }
   },
