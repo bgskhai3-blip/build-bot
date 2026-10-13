@@ -1050,6 +1050,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791935132770
+      },
+      "-1003717557621": {
+        "id": "-1003717557621",
+        "name": "Base Marketplace Telegram ( 2##6 )",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791935138004
       }
     }
   },
