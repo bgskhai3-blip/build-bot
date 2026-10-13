@@ -280,6 +280,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791876586831
+      },
+      "-1004349455810": {
+        "id": "-1004349455810",
+        "name": "Testimoni sakata",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791876592115
       }
     }
   },
