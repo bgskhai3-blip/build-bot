@@ -651,6 +651,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791934709557
+      },
+      "-1003110297681": {
+        "id": "-1003110297681",
+        "name": "Shop TG Number [ Chat² ]",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791934720891
       }
     }
   },
