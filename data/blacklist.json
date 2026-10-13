@@ -21,6 +21,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791876229804
+      },
+      "-1003735554300": {
+        "id": "-1003735554300",
+        "name": "[ PROJECT ] VX-FAR",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791876240986
       }
     }
   },
