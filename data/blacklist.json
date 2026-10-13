@@ -819,6 +819,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791934870963
+      },
+      "-1003580238535": {
+        "id": "-1003580238535",
+        "name": "Room Publik #¹",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791934876202
       }
     }
   },
