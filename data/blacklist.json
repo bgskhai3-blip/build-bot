@@ -952,6 +952,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791935023884
+      },
+      "-1003618212206": {
+        "id": "-1003618212206",
+        "name": "Base numeric telegram",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791935029126
       }
     }
   },
