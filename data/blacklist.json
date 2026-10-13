@@ -189,6 +189,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791876495076
+      },
+      "-1004367161345": {
+        "id": "-1004367161345",
+        "name": "CHANNEL UP BASE PRIVATE",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791876506411
       }
     }
   },
