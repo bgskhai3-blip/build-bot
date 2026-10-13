@@ -1405,6 +1405,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791850193594
+      },
+      "-1004378691586": {
+        "id": "-1004378691586",
+        "name": "ROOM PUBLIK #⁵",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791850204596
       }
     }
   }
