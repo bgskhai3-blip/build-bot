@@ -707,6 +707,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791934763606
+      },
+      "-1003390681615": {
+        "id": "-1003390681615",
+        "name": "TURR [ MSG¹ ]",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791934768842
       }
     }
   },
