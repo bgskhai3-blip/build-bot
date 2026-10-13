@@ -84,6 +84,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791876369827
+      },
+      "-1004486928919": {
+        "id": "-1004486928919",
+        "name": "GB PANEL PUBLIC",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791876375027
       }
     }
   },
