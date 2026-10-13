@@ -441,6 +441,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791876712873
+      },
+      "-1003895061888": {
+        "id": "-1003895061888",
+        "name": "All frends Xtraa",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791876718077
       }
     }
   },
