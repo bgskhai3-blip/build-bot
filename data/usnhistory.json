@@ -930,7 +930,7 @@
     ]
   },
   "939202824": {
-    "username": null,
+    "username": "secretsbans",
     "entries": [
       {
         "username": "secretsbans",
@@ -961,6 +961,11 @@
         "username": "secretsbans",
         "first": 1791979715204,
         "last": 1791979715204
+      },
+      {
+        "username": "secretsbans",
+        "first": 1791985913188,
+        "last": 1791985913188
       }
     ]
   },
