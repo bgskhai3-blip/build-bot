@@ -1341,6 +1341,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791951561340
+      },
+      "-1004423602614": {
+        "id": "-1004423602614",
+        "name": "prohibido en whatsapp",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791951566592
       }
     }
   },
