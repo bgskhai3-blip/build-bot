@@ -1285,6 +1285,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791951227006
+      },
+      "-1004487435332": {
+        "id": "-1004487435332",
+        "name": "about me",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791951237554
       }
     }
   },
