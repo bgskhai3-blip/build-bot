@@ -1411,6 +1411,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791972713477
+      },
+      "-1003841566022": {
+        "id": "-1003841566022",
+        "name": "murbase x murfunc kelra",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791973198329
       }
     }
   },
