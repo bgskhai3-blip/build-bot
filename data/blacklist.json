@@ -1229,6 +1229,20 @@
         "type": "group",
         "auto": true,
         "addedAt": 1791951174233
+      },
+      "-1004399070495": {
+        "id": "-1004399070495",
+        "name": "Daily's Me",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791951179499
+      },
+      "4346699457": {
+        "id": "4346699457",
+        "name": "ALL RESELLER PRIVATE VYNTSNJI",
+        "type": "group",
+        "username": null,
+        "addedAt": 1791951181091
       }
     }
   },
