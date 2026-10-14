@@ -1215,6 +1215,13 @@
         "type": "group",
         "username": null,
         "addedAt": 1791951161927
+      },
+      "-1004471693617": {
+        "id": "-1004471693617",
+        "name": "bahan akun bagus",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1791951168992
       }
     }
   },
