@@ -2343,6 +2343,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1792043162360
+      },
+      "-1002093184756": {
+        "id": "-1002093184756",
+        "name": "JB ALL GAME LENZSTORE",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1792043173374
       }
     }
   },
