@@ -2350,6 +2350,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1792043173374
+      },
+      "-1002087134617": {
+        "id": "-1002087134617",
+        "name": "ROOM PUBLIC ARIF",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1792043184626
       }
     }
   },
