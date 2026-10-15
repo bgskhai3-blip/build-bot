@@ -2518,6 +2518,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1792043483132
+      },
+      "-1003720415474": {
+        "id": "-1003720415474",
+        "name": "ROM PUBLIC",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1792043505852
       }
     }
   },
