@@ -606,6 +606,11 @@
         "username": "pvsaja",
         "first": 1792062930562,
         "last": 1792062930562
+      },
+      {
+        "username": "pvsaja",
+        "first": 1792062955115,
+        "last": 1792062955115
       }
     ]
   },
@@ -7060,7 +7065,7 @@
     ]
   },
   "8966733694": {
-    "username": "official_coindesk_support_1000",
+    "username": null,
     "entries": [
       {
         "username": "official_coindesk_support_1000",
