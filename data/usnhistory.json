@@ -1620,7 +1620,7 @@
     ]
   },
   "8063567723": {
-    "username": "brucenxy",
+    "username": null,
     "entries": [
       {
         "username": "brucenxy",
@@ -2381,6 +2381,16 @@
         "username": "xowowon",
         "first": 1792052547208,
         "last": 1792052547208
+      }
+    ]
+  },
+  "8471394223": {
+    "username": "putrayakuza09",
+    "entries": [
+      {
+        "username": "putrayakuza09",
+        "first": 1792052564108,
+        "last": 1792052564108
       }
     ]
   }
