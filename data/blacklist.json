@@ -2364,6 +2364,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1792043218978
+      },
+      "-1002103889436": {
+        "id": "-1002103889436",
+        "name": "ROAM PUBLICK BY ASTER",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1792043224219
       }
     }
   },
