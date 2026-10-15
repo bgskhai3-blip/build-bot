@@ -2301,6 +2301,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1792043096347
+      },
+      "-1002064244994": {
+        "id": "-1002064244994",
+        "name": "ROOM PUBLIC ARZ-EXD⁷⁷⁷",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1792043107395
       }
     }
   },
