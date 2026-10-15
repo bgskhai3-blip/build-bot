@@ -2308,6 +2308,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1792043107395
+      },
+      "-1003057331658": {
+        "id": "-1003057331658",
+        "name": "Shop TG Number [ Chat ]",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1792043112660
       }
     }
   },
