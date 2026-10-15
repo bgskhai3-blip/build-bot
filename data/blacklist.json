@@ -2294,6 +2294,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1792043061833
+      },
+      "-1002041343212": {
+        "id": "-1002041343212",
+        "name": "Room Public @vJhonnn 1KM",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1792043096347
       }
     }
   },
