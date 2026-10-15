@@ -1439,6 +1439,13 @@
         "type": "group",
         "username": null,
         "addedAt": 1791986769214
+      },
+      "-1003926364659": {
+        "id": "-1003926364659",
+        "name": "REKBER ONLY - LIST FEE DI SEMATKAN !",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1792043009715
       }
     }
   },
