@@ -2322,6 +2322,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1792043123674
+      },
+      "-1002125216090": {
+        "id": "-1002125216090",
+        "name": "𒋨 | Room Public",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1792043128920
       }
     }
   },
