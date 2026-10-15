@@ -2378,6 +2378,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1792043229557
+      },
+      "-1002116559456": {
+        "id": "-1002116559456",
+        "name": "ALL JB SOSMED",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1792043246455
       }
     }
   },
