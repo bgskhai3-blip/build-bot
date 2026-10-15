@@ -2427,6 +2427,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1792043307389
+      },
+      "-1002043453025": {
+        "id": "-1002043453025",
+        "name": "GB ISIAN DILLA X SAFIRA",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1792043312629
       }
     }
   },
