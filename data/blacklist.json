@@ -2385,6 +2385,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1792043246455
+      },
+      "-1003941201199": {
+        "id": "-1003941201199",
+        "name": "Room Public BEBAS PROMOSI",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1792043257799
       }
     }
   },
