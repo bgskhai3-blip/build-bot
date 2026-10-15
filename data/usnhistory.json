@@ -4685,7 +4685,7 @@
     ]
   },
   "2104935820": {
-    "username": "xciusz",
+    "username": null,
     "entries": [
       {
         "username": "xciusz",
@@ -7356,6 +7356,11 @@
         "username": "official_coindesk_support_1000",
         "first": 1792063435947,
         "last": 1792063435947
+      },
+      {
+        "username": "official_coindesk_support_1000",
+        "first": 1792063603440,
+        "last": 1792063603440
       }
     ]
   },
@@ -11595,7 +11600,7 @@
     ]
   },
   "8331300217": {
-    "username": "hanzznokos",
+    "username": null,
     "entries": [
       {
         "username": "hanzznokos",
