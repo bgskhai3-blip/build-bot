@@ -310,7 +310,7 @@
     ]
   },
   "963383254": {
-    "username": "jarrslow",
+    "username": null,
     "entries": [
       {
         "username": "jarrslow",
@@ -7016,6 +7016,16 @@
         "username": "zanzcrit",
         "first": 1792058390891,
         "last": 1792058390891
+      }
+    ]
+  },
+  "8038622581": {
+    "username": "oscardepe",
+    "entries": [
+      {
+        "username": "oscardepe",
+        "first": 1792058393936,
+        "last": 1792058393936
       }
     ]
   }
