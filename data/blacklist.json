@@ -2511,6 +2511,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1792043477866
+      },
+      "-1003991479366": {
+        "id": "-1003991479366",
+        "name": "Room Public Zhidan Official",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1792043483132
       }
     }
   },
