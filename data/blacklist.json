@@ -2399,6 +2399,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1792043268861
+      },
+      "-1002938888265": {
+        "id": "-1002938888265",
+        "name": "Shop TG Number ( Public )",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1792043285812
       }
     }
   },
