@@ -2532,6 +2532,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1792043634940
+      },
+      "-1002993688643": {
+        "id": "-1002993688643",
+        "name": "ROOM PUBL!C VORZA",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1792043651965
       }
     }
   },
