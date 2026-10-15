@@ -2462,6 +2462,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1792043386197
+      },
+      "-1003898893801": {
+        "id": "-1003898893801",
+        "name": "ABYSSAL PUBLIC",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1792043391430
       }
     }
   },
