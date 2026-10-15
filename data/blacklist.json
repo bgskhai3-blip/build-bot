@@ -2448,6 +2448,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1792043346297
+      },
+      "-1002008492587": {
+        "id": "-1002008492587",
+        "name": "LPM JUALAN",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1792043363571
       }
     }
   },
