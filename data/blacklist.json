@@ -2469,6 +2469,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1792043391430
+      },
+      "-1002061262648": {
+        "id": "-1002061262648",
+        "name": "Room public IzzulMods",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1792043415220
       }
     }
   },
