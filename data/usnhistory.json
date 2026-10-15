@@ -180,7 +180,7 @@
     ]
   },
   "67045504": {
-    "username": null,
+    "username": "hperr",
     "entries": [
       {
         "username": "hperr",
@@ -196,6 +196,11 @@
         "username": "hperr",
         "first": 1792041444995,
         "last": 1792041444995
+      },
+      {
+        "username": "hperr",
+        "first": 1792041477156,
+        "last": 1792041477156
       }
     ]
   },
@@ -905,7 +910,7 @@
     ]
   },
   "637912421": {
-    "username": null,
+    "username": "sycogil",
     "entries": [
       {
         "username": "sycogil",
@@ -1036,6 +1041,11 @@
         "username": "sycogil",
         "first": 1792041473492,
         "last": 1792041473492
+      },
+      {
+        "username": "sycogil",
+        "first": 1792041476803,
+        "last": 1792041476803
       }
     ]
   },
