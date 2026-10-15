@@ -2135,12 +2135,17 @@
     ]
   },
   "8966733694": {
-    "username": null,
+    "username": "official_coindesk_support_1000",
     "entries": [
       {
         "username": "official_coindesk_support_1000",
         "first": 1792052057535,
         "last": 1792052057535
+      },
+      {
+        "username": "official_coindesk_support_1000",
+        "first": 1792052266654,
+        "last": 1792052266654
       }
     ]
   },
