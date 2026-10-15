@@ -1453,6 +1453,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1792043031349
+      },
+      "4303930810": {
+        "id": "4303930810",
+        "name": "trash bans",
+        "type": "group",
+        "username": null,
+        "addedAt": 1792053457341
       }
     }
   },
