@@ -335,12 +335,17 @@
     ]
   },
   "799769632": {
-    "username": null,
+    "username": "nhpdf",
     "entries": [
       {
         "username": "nhpdf",
         "first": 1792049189972,
         "last": 1792049189972
+      },
+      {
+        "username": "nhpdf",
+        "first": 1792061883220,
+        "last": 1792061883220
       }
     ]
   },
@@ -1420,7 +1425,7 @@
     ]
   },
   "1300034883": {
-    "username": null,
+    "username": "azerathus",
     "entries": [
       {
         "username": "azerathus",
@@ -1451,6 +1456,11 @@
         "username": "azerathus",
         "first": 1792061860504,
         "last": 1792061860504
+      },
+      {
+        "username": "azerathus",
+        "first": 1792061881792,
+        "last": 1792061881792
       }
     ]
   },
@@ -6335,7 +6345,7 @@
     ]
   },
   "8787667765": {
-    "username": "zikownbot",
+    "username": null,
     "entries": [
       {
         "username": "zikownbot",
