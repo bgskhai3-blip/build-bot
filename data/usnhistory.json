@@ -7425,7 +7425,7 @@
     ]
   },
   "1492544595": {
-    "username": "dwantaraa",
+    "username": null,
     "entries": [
       {
         "username": "dwantaraa",
@@ -43865,7 +43865,7 @@
     ]
   },
   "8694449564": {
-    "username": null,
+    "username": "official_coindesk_support666666",
     "entries": [
       {
         "username": "official_coindesk_support666666",
@@ -43881,6 +43881,11 @@
         "username": "official_coindesk_support666666",
         "first": 1792155368518,
         "last": 1792155368518
+      },
+      {
+        "username": "official_coindesk_support666666",
+        "first": 1792155505665,
+        "last": 1792155505665
       }
     ]
   }
