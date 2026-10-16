@@ -1488,6 +1488,13 @@
         "type": "group",
         "username": "stortag01",
         "addedAt": 1792059022107
+      },
+      "-1001818398503": {
+        "id": "-1001818398503",
+        "name": "Daddy Kynan",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1792120364158
       }
     }
   },
