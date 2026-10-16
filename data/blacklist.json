@@ -2010,6 +2010,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1792113361162
+      },
+      "-1003803431301": {
+        "id": "-1003803431301",
+        "name": "Base Numero Telegram (News)",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1792113371725
       }
     }
   },
