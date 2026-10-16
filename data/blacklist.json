@@ -1996,6 +1996,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1792113288493
+      },
+      "-1004445976517": {
+        "id": "-1004445976517",
+        "name": "ALL ROLE PRIVAT SATRIA",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1792113299131
       }
     }
   },
