@@ -1,7 +1,7 @@
 {
   "8286316637": {
     "onlyMe": true,
-    "hapusCmd": false,
+    "hapusCmd": true,
     "antiPM": true,
     "logPM": true,
     "blokirAsing": false,
