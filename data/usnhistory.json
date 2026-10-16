@@ -164,6 +164,16 @@
       }
     ]
   },
+  "90593987": {
+    "username": "dtegang",
+    "entries": [
+      {
+        "username": "dtegang",
+        "first": 1792128200457,
+        "last": 1792128200457
+      }
+    ]
+  },
   "141554737": {
     "username": "balkrov",
     "entries": [
@@ -1105,12 +1115,17 @@
     ]
   },
   "610517071": {
-    "username": null,
+    "username": "black_gems",
     "entries": [
       {
         "username": "black_gems",
         "first": 1792067611428,
         "last": 1792067611428
+      },
+      {
+        "username": "black_gems",
+        "first": 1792128199284,
+        "last": 1792128199284
       }
     ]
   },
@@ -2545,7 +2560,7 @@
     ]
   },
   "1150830056": {
-    "username": null,
+    "username": "styzxoffc",
     "entries": [
       {
         "username": "styzxoffc",
@@ -2716,6 +2731,11 @@
         "username": "styzxoffc",
         "first": 1792126204338,
         "last": 1792126204338
+      },
+      {
+        "username": "styzxoffc",
+        "first": 1792128197074,
+        "last": 1792128197074
       }
     ]
   },
@@ -4200,7 +4220,7 @@
     ]
   },
   "1287495596": {
-    "username": null,
+    "username": "lakujr",
     "entries": [
       {
         "username": "lakujr",
@@ -4211,6 +4231,11 @@
         "username": "lakujr",
         "first": 1792078469712,
         "last": 1792078469712
+      },
+      {
+        "username": "lakujr",
+        "first": 1792128197737,
+        "last": 1792128197737
       }
     ]
   },
