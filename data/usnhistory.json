@@ -1935,7 +1935,7 @@
     ]
   },
   "1007189444": {
-    "username": "ryuunakagawa",
+    "username": null,
     "entries": [
       {
         "username": "ryuunakagawa",
@@ -3946,6 +3946,11 @@
         "username": "lovematchalyn",
         "first": 1792155630309,
         "last": 1792155630309
+      },
+      {
+        "username": "lovematchalyn",
+        "first": 1792155637402,
+        "last": 1792155637402
       }
     ]
   },
@@ -7795,7 +7800,7 @@
     ]
   },
   "1584673020": {
-    "username": "zellentx",
+    "username": null,
     "entries": [
       {
         "username": "zellentx",
@@ -8091,6 +8096,11 @@
         "username": "zellentx",
         "first": 1792155633294,
         "last": 1792155633294
+      },
+      {
+        "username": "zellentx",
+        "first": 1792155638290,
+        "last": 1792155638290
       }
     ]
   },
