@@ -8260,7 +8260,7 @@
     ]
   },
   "1726841480": {
-    "username": "kiwkiqu3",
+    "username": null,
     "entries": [
       {
         "username": "kiwkiqu3",
@@ -36250,7 +36250,7 @@
     ]
   },
   "8648918205": {
-    "username": "coindesk_support4879",
+    "username": null,
     "entries": [
       {
         "username": "zhuraxhtml",
@@ -37235,12 +37235,17 @@
     ]
   },
   "8647155045": {
-    "username": null,
+    "username": "giszz_aja",
     "entries": [
       {
         "username": "giszz_aja",
         "first": 1792132198602,
         "last": 1792132198602
+      },
+      {
+        "username": "giszz_aja",
+        "first": 1792132289377,
+        "last": 1792132289377
       }
     ]
   },
