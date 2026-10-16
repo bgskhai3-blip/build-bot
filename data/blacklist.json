@@ -1954,6 +1954,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1792113148886
+      },
+      "-1004402860132": {
+        "id": "-1004402860132",
+        "name": "BASE NUMERO",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1792113160023
       }
     }
   },
