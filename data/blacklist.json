@@ -2777,6 +2777,13 @@
         "type": "group",
         "username": null,
         "addedAt": 1792067268870
+      },
+      "-1002550880448": {
+        "id": "-1002550880448",
+        "name": "PT. Traders Family Indonesia 🇮🇩",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1792133425322
       }
     }
   },
