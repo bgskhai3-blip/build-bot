@@ -1961,6 +1961,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1792113160023
+      },
+      "-1002743639336": {
+        "id": "-1002743639336",
+        "name": "BASE NO MERCY'S.",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1792113188609
       }
     }
   },
