@@ -1,7 +1,7 @@
 {
   "8286316637": {
-    "hidePerfolder": true,
-    "hideJoinGrup": false,
+    "hidePerfolder": false,
+    "hideJoinGrup": true,
     "autocorrect": true
   }
 }
