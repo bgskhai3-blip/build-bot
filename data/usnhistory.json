@@ -1580,7 +1580,7 @@
     ]
   },
   "1007189444": {
-    "username": null,
+    "username": "ryuunakagawa",
     "entries": [
       {
         "username": "ryuunakagawa",
@@ -1626,6 +1626,11 @@
         "username": "ryuunakagawa",
         "first": 1792123478628,
         "last": 1792123478628
+      },
+      {
+        "username": "ryuunakagawa",
+        "first": 1792123621140,
+        "last": 1792123621140
       }
     ]
   },
