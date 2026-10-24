@@ -39,6 +39,7 @@
     "role": "pemilik",
     "addedBy": "system",
     "addedAt": 1792821875078,
-    "expiresAt": null
+    "expiresAt": null,
+    "sandboxLimit": 999
   }
 }
