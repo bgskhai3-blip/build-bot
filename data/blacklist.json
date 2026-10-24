@@ -57,6 +57,13 @@
         "type": "group",
         "auto": true,
         "addedAt": 1792847883655
+      },
+      "-1002032901195": {
+        "id": "-1002032901195",
+        "name": "Jasa Banned/Unbanned#1",
+        "type": "group",
+        "auto": true,
+        "addedAt": 1792847911898
       }
     }
   }
