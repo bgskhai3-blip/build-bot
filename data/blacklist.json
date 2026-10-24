@@ -7,6 +7,13 @@
         "type": "group",
         "username": null,
         "addedAt": 1792822745345
+      },
+      "3931580370": {
+        "id": "3931580370",
+        "name": "ALL BASE PRIVATE",
+        "type": "group",
+        "username": null,
+        "addedAt": 1792823378878
       }
     }
   }
