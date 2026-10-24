@@ -33,5 +33,12 @@
     "addedBy": "8286316637",
     "addedAt": 1791819287474,
     "expiresAt": 1794411287474
+  },
+  "8806536785": {
+    "id": "8806536785",
+    "role": "pemilik",
+    "addedBy": "system",
+    "addedAt": 1792821875078,
+    "expiresAt": null
   }
 }
