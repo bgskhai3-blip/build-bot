@@ -5080,12 +5080,17 @@
     ]
   },
   "1177297962": {
-    "username": null,
+    "username": "terrorbans",
     "entries": [
       {
         "username": "terrorbans",
         "first": 1792925921481,
         "last": 1792925921481
+      },
+      {
+        "username": "terrorbans",
+        "first": 1793024985412,
+        "last": 1793024985412
       }
     ]
   },
@@ -17525,7 +17530,7 @@
     ]
   },
   "1799663110": {
-    "username": null,
+    "username": "leftmissyou",
     "entries": [
       {
         "username": "leftmissyou",
@@ -18241,6 +18246,11 @@
         "username": "leftmissyou",
         "first": 1793018887106,
         "last": 1793018887106
+      },
+      {
+        "username": "leftmissyou",
+        "first": 1793024986139,
+        "last": 1793024986139
       }
     ]
   },
