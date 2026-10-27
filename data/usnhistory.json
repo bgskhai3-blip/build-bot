@@ -58085,12 +58085,17 @@
     ]
   },
   "6707462985": {
-    "username": "top1policebans",
+    "username": "top1policebanz",
     "entries": [
       {
         "username": "top1policebans",
         "first": 1792915532090,
         "last": 1792915532090
+      },
+      {
+        "username": "top1policebanz",
+        "first": 1793104476418,
+        "last": 1793104476418
       }
     ]
   },
